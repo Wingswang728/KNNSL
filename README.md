@@ -1,3 +1,7 @@
 # KNNSL
-An interpretable deep learning framework for synthetic lethality predictionetr
-et
+An interpretable deep learning framework for synthetic lethality predictione
+
+tret
+
+werweer
+rer
