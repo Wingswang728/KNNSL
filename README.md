@@ -8,7 +8,7 @@ numpy
 scikit-learn  
 networkx
 
-## Example data  
+## Data  
 SL samples in A549 cell line: samples-A549.csv  
 Gene features in A549 cell line: featurematrix-A549.csv, gene2id.csv   
 GO terms for network construction: wj-dG55.gml    
