@@ -1,4 +1,4 @@
-# KNNSL
+# KDDSL
 An interpretable deep learning framework for synthetic lethality prediction  
 
 ## Requirements  
